@@ -1,0 +1,12 @@
+Gouin:
+	Hello buddy
+John:
+	Yo mate whats up
+Gouin:
+	im good man thanks what about you ?
+John:
+    im allright mate
+Gouin:
+	Good night mate
+John:
+    Thanks man

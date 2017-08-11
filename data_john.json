@@ -1,0 +1,57 @@
+[
+    {
+        "question": {
+            "question3": [
+                "",
+                "im",
+                "good",
+                "man",
+                "thanks",
+                "what",
+                "about",
+                "you",
+                "?",
+                ""
+            ],
+            "question0": [
+                "",
+                "hello",
+                "buddy",
+                ""
+            ],
+            "question1": [
+                "",
+                "im",
+                "good",
+                "man",
+                "thanks",
+                "what",
+                "about",
+                "you",
+                "?",
+                ""
+            ],
+            "question2": [
+                "",
+                "hello",
+                "buddy",
+                ""
+            ]
+        },
+        "answer": {
+            "question3": [
+                "    im allright mate "
+            ],
+            "question0": [
+                " yo mate whats up "
+            ],
+            "question1": [
+                "    im allright mate "
+            ],
+            "question2": [
+                " yo mate whats up "
+            ]
+        }
+    },
+    4
+]
